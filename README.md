@@ -1,5 +1,5 @@
 # PokeID
-CNN image classification of 150 pokemon. :camera::arrow_right::dragon:? 
+CNN image classification of 150 Pokemon. :camera::arrow_right::dragon:? 
 
 ### Data
 https://www.kaggle.com/lantian773030/pokemonclassification
